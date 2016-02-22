@@ -1,0 +1,30 @@
+{
+  "name": "ng2workspace-addon-webpack-assets",
+  "version": "0.0.1",
+  "description": "Assets workflow for ng2workspace-addon-webpack",
+  "main": "index.js",
+  "homepage": "https://github.com/ng2workspace/ng2workspace-addon-webpack-assets#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng2workspace/ng2workspace-addon-webpack-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ng2workspace/ng2workspace-addon-webpack-assets/issues"
+  },
+  "keywords": [
+    "ng2workspace",
+    "angular2",
+    "ng2workspace-addon",
+    "webpack"
+  ],
+  "author": "Merott Movahedi <merott@merott.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "ng2workspace": "../ng2workspace",
+    "ng2workspace-addon-webpack": "../ng2workspace-addon-webpack"
+  },
+  "dependencies": {
+    "copy-webpack-plugin": "^1.1.1"
+  },
+  "devDependencies": {}
+}
